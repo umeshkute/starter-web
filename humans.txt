@@ -6,7 +6,7 @@
     <name> -- <role> -- <twitter>
     <name> Umesh Kute <twitter>
     Umesh Kute
-    QA and DevOps engineer
+    QA engineer
     umeshvkute@gmail.com
 
 # THANKS
