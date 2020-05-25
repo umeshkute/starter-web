@@ -11,7 +11,7 @@
 
 # THANKS
 
-    <name>
+    Thanks to all my team members
 
 # TECHNOLOGY COLOPHON
 
