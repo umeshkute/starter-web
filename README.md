@@ -7,6 +7,7 @@ Modified - A lot of lectures are already submitted
 
 ## DevOps training on Udemy
 Modified - This is for training course for DevOps and GIT deep-dive sessions. 
+Modified - Adding git rebase lectures 
 
 ## Purpose
 
