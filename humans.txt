@@ -2,6 +2,7 @@
 # The humans responsible & technology colophon
 
 Hi, I'm modifying the file before rebase
+Hi, Going to insert conflict in my feature branch.
 
 # TEAM
 
