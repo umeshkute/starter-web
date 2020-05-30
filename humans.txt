@@ -8,8 +8,9 @@ Hi, I'm modifying the file before rebase
     <name> -- <role> -- <twitter>
     <name> Umesh Kute <twitter>
     Umesh Kute
-    QA engineer
+    QA engineer - with 15 years of experience
     umeshvkute@gmail.com
+	IT Organization
 
 # THANKS
 
