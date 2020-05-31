@@ -6,6 +6,8 @@ Hi, Going to insert conflict in my feature branch.
 
 Doing some changes in local.
 
+Adding some important notes on Git Stash
+
 # TEAM
 
     <name> -- <role> -- <twitter>
