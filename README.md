@@ -13,3 +13,7 @@ Modified - Adding git rebase lectures. We have done so much of work together.
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## GIT Comparison
+
+Adding new lecture of stashing
